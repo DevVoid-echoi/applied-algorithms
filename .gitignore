@@ -1,0 +1,10 @@
+# Compiled binaries (files without extension)
+*
+!*/
+!*.*
+!.gitignore
+
+# Code Runner temp files
+tempCodeRunnerFile*
+
+.DS_Store
